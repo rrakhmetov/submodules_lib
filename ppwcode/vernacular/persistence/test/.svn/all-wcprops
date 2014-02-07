@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7303/javascript/vernacular/persistence/trunk/src/persistence/test
+END
+PersistentObjectStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/PersistentObjectStore.js
+END
+ToManyStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/ToManyStore.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/module.js
+END
+VersionedPersistentObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7303/javascript/vernacular/persistence/trunk/src/persistence/test/VersionedPersistentObject.js
+END
+PersistentObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/PersistentObject.js
+END
+UrlBuilder.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/UrlBuilder.js
+END
+CrudDaoMock.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7303/javascript/vernacular/persistence/trunk/src/persistence/test/CrudDaoMock.js
+END
+polymorphAmdRevive.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/polymorphAmdRevive.js
+END
+AuditableObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7303/javascript/vernacular/persistence/trunk/src/persistence/test/AuditableObject.js
+END
+CrudDao.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/CrudDao.js
+END
+runner.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7020/javascript/vernacular/persistence/trunk/src/persistence/test/runner.html
+END
+_Cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7296/javascript/vernacular/persistence/trunk/src/persistence/test/_Cache.js
+END

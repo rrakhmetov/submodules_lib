@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7031/javascript/vernacular/exceptions/trunk/src/exceptions/test
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6516/javascript/vernacular/exceptions/trunk/src/exceptions/test/module.js
+END
+SecurityException.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7031/javascript/vernacular/exceptions/trunk/src/exceptions/test/SecurityException.js
+END
+runner.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7015/javascript/vernacular/exceptions/trunk/src/exceptions/test/runner.html
+END
+SemanticException.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7031/javascript/vernacular/exceptions/trunk/src/exceptions/test/SemanticException.js
+END
+PropertyException.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7031/javascript/vernacular/exceptions/trunk/src/exceptions/test/PropertyException.js
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7401/javascript/vernacular/persistence/trunk/src/persistence
+END
+PersistentObjectStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/PersistentObjectStore.js
+END
+VersionedPersistentObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/VersionedPersistentObject.js
+END
+InsertAuditableObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/InsertAuditableObject.js
+END
+UrlBuilder.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/UrlBuilder.js
+END
+ToManyDefinition.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/ToManyDefinition.js
+END
+AuditableObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/AuditableObject.js
+END
+CrudDao.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7391/javascript/vernacular/persistence/trunk/src/persistence/CrudDao.js
+END
+ToManyStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/ToManyStore.js
+END
+ppwcode_vernacular_persistence.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/ppwcode_vernacular_persistence.profile.js
+END
+PersistentObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/PersistentObject.js
+END
+IdNotFoundException.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7391/javascript/vernacular/persistence/trunk/src/persistence/IdNotFoundException.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7398/javascript/vernacular/persistence/trunk/src/persistence/package.json
+END
+ReferenceValue.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/ReferenceValue.js
+END
+polymorphAmdRevive.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/polymorphAmdRevive.js
+END
+Dependencies.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6728/javascript/vernacular/persistence/trunk/src/persistence/Dependencies.png
+END
+ObjectAlreadyChangedException.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7295/javascript/vernacular/persistence/trunk/src/persistence/ObjectAlreadyChangedException.js
+END
+_Cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7303/javascript/vernacular/persistence/trunk/src/persistence/_Cache.js
+END

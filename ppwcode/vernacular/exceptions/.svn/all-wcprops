@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7397/javascript/vernacular/exceptions/trunk/src/exceptions
+END
+SecurityException.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7196/javascript/vernacular/exceptions/trunk/src/exceptions/SecurityException.js
+END
+CompoundSemanticException.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7342/javascript/vernacular/exceptions/trunk/src/exceptions/CompoundSemanticException.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7397/javascript/vernacular/exceptions/trunk/src/exceptions/package.json
+END
+SemanticException.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7397/javascript/vernacular/exceptions/trunk/src/exceptions/SemanticException.js
+END
+ppwcode_vernacular_exceptions.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7259/javascript/vernacular/exceptions/trunk/src/exceptions/ppwcode_vernacular_exceptions.profile.js
+END
+PropertyException.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7341/javascript/vernacular/exceptions/trunk/src/exceptions/PropertyException.js
+END
